@@ -1,6 +1,6 @@
 cask "foldershare" do
-  version "1.17.1"
-  sha256 "9d8c22426f9c6785305e3d559344b28e95537f670b7c44a60586c5afbdb799b6"
+  version "1.17.2"
+  sha256 "d4618f0c73bd432a05a5673ed9f1bd64105b9e06b350e7ea9a65796e96c1ea69"
 
   url "https://github.com/txhzfyt/foldershare/releases/download/v#{version}/FolderShare-#{version}-universal.zip"
   name "FolderShare"
