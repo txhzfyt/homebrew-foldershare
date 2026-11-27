@@ -1,6 +1,6 @@
 cask "foldershare" do
-  version "1.21.0"
-  sha256 "c2b4bec8bf470ef750c8417928fcf3d708c025dd57cdb821d523382447185efb"
+  version "1.21.3"
+  sha256 "17dbf1dc4fbca20ac980c4e998a9ce0eb6e72fe1a224f573e9f760c968532010"
   url "https://github.com/txhzfyt/foldershare/releases/download/v#{version}/FolderShare-#{version}-universal.zip"
   name "FolderShare"
   desc "Share a Mac folder as a temporary web link without an account"
